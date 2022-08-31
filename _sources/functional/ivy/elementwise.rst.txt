@@ -65,7 +65,6 @@ Elementwise
    elementwise/sin.rst
    elementwise/sinh.rst
    elementwise/sqrt.rst
-   elementwise/round.rst
    elementwise/square.rst
    elementwise/subtract.rst
    elementwise/tan.rst
